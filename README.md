@@ -73,10 +73,6 @@ File yang dibuat/diperbarui otomatis setiap kali transaksi selesai, berisi rinci
 - `SimpanTransaksikeFile()` - Menyimpan semua transaksi dari memori ke file `datatransaksi.doc`
 - `laporanTransaksi()` - Membaca data transaksi dari file `datatransaksi.doc` dan menampilkannya dengan opsi filter berdasarkan tanggal, bulan, atau tahun
 
-## 🏪 Informasi Toko
-
-**Nama Toko:** SUKA MAJU BERSAMA 
-
 ## 📖 Cara Penggunaan
 
 1. 🚀 Jalankan program
