@@ -357,7 +357,7 @@ void BuatStrukPenjualan(const Transaksi& transaksi) {
     string header = 
     "====================================================\n"
     "                SUKA MAJU BERSAMA\n"
-    "    Jl. HangLengkir No. 19, Kota Tanjung Pinang\n"
+    "                         -                          \n"
     "            Telp: +6282130354176\n"
     "====================================================\n";
 
